@@ -23,5 +23,5 @@ A use and advantage of using this data structure is that you can store and
 
 
 
-- [Welcome page](0-welcome.md)
+[Welcome page](0-welcome.md)
 
