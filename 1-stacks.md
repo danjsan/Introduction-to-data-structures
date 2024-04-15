@@ -21,3 +21,7 @@ value 13 | value 23 | value 33 | value 31
 
 A use and advantage of using this data structure is that you can store and 
 
+
+
+- [Welcome page](0-welcome.md)
+
