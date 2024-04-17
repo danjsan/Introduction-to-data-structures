@@ -8,7 +8,9 @@ Similar to some puzzle pieces, the bigger parto of the piece will store the valu
 
 ![Puzzle pieces](2-puzzle_piece.jpeg)
 
-The following are some of the operations used for this type of data structure:
+As a whole, this type of data structue will have a head, body, and tail. The operations to add or remove a head and tail are very similar and the operations are as followed:
+
+
 
 
 
