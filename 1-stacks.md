@@ -33,7 +33,9 @@ pop_it = my_stack.pop()
 print(pop_it) #(8)
 ```
 
+Now try the following problem on your own.
 
+[Python file](07-prove_linked_list.py)
 
 [Welcome page](0-welcome.md)
 
