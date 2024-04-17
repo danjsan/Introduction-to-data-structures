@@ -35,11 +35,11 @@ print(pop_it) #(8)
 
 Now try the following problem on your own.
 
-[Stack problem](#Stack problem.py)
+[Stack problem](Stack problem.py)
 
 Compare your code with the solution
 
-[Stack solution](#Solution Stack.py)
+[Stack solution](Solution Stack.py)
 
 [Welcome page](0-welcome.md)
 
