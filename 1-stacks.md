@@ -15,9 +15,9 @@ The most common stack operations in Python are the following, along with an expl
 
 Stack operation | What it does | Python code | Big O performance
 -------- | -------- | -------- | --------
-push(value) | Adds a value to the   | value 31 | value 31
-pop() | value 22 | value 32 | value 31
-size() | value 23 | value 33 | value 31
+push(value) | Adds a value to the stack | your_stack.push(value) | O(1) Adding the value at the end of the stack with no need to iterate over other values
+pop() | Deletes and stores the last pushed value of the stack | your_stack.pop() | O(1) No need to iterate over other values
+size() | Calcukates the size of the stack | your_stack.size() | O(1)
 
 A use and advantage of using this data structure is that you can store and 
 
