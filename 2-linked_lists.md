@@ -21,6 +21,11 @@ remove_tail(index) | Removes last node | value = your_deque.pop() | O(1)
 
 In python language an example would look like this:
 
+*empty*
 
+
+Here is a problem you can try on your own.
+
+[Linked list problem](7-linked_list_problem.py)
 
 [Welcome page](0-welcome.md)
