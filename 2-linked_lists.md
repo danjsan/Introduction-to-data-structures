@@ -8,4 +8,10 @@ Similar to some puzzle pieces, the bigger parto of the piece will store the valu
 
 ![Puzzle pieces](2-puzzle_piece.jpeg)
 
+The following are some of the 
+
+In python language an example would look like this:
+
+
+
 [Welcome page](0-welcome.md)
