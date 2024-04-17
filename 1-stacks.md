@@ -1,4 +1,4 @@
-**Stacks**
+# Stacks
 
 A way to picture this kind of data structure with an everyday example is imagining
 a pile of 20+ books on different topics and trying to get one but not quite remembering
